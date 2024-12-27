@@ -1,0 +1,30 @@
+{
+  "name": "test_netlify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siavushshahrizad/test_netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siavushshahrizad/test_netlify/issues"
+  },
+  "homepage": "https://github.com/siavushshahrizad/test_netlify#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  }
+}
